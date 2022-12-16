@@ -9,7 +9,8 @@ Fecha: Diciembre 2022
 ## Introducción
 
 
-> A mediados de la década de los noventa asistimos a una transformación fundamental en la cultura de la imagen en movimiento. Los medios de comunicación por separado ―películas cinematográficas, gráficos, fotografía, animación, animación 3D por ordenador y la tipografía― comenzaron a combinarse de mil maneras. De este modo, finalizando la década, el medio "puro" de las imágenes en movimiento se volvió una excepción y los medios híbridos, la norma. - Manuel Bayonas
+> A mediados de la década de los noventa asistimos a una transformación fundamental en la cultura de la imagen en movimiento. Los medios de comunicación por separado ―películas cinematográficas, gráficos, fotografía, animación, animación 3D por ordenador y la tipografía― comenzaron a combinarse de mil maneras. De este modo, finalizando la década, el medio "puro" de las imágenes en movimiento se volvió una excepción y los medios híbridos, la norma. - [Manuel Bayonas](https://ticsarteyeducacion.files.wordpress.com/2018/09/a-6-manovich-lev-comprender-los-medios-hicc81bridos-traducciocc81n-de-la-cacc81tedra-de-analisis-y-cricc81tica.pdf)
+
 
 Debido a la aparición de múltiples medios de comunicación, que empezaron a combinarse de cuantiosas maneras. En vez de llegar a la fusión lógica de estos medios, se producieron nuevos medios híbridos que relacionaban los múltiples medios de comunicación.
 
@@ -36,7 +37,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-
+* Manuel Bayonas. (2008). **Comprender los medios híbridos** . [consulta: 16 diciembre 2022]. Disponible en: https://ticsarteyeducacion.files.wordpress.com/2018/09/a-6-manovich-lev-comprender-los-medios-hicc81bridos-traducciocc81n-de-la-cacc81tedra-de-analisis-y-cricc81tica.pdf 
 
 ----
 
