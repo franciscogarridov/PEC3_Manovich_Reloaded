@@ -54,7 +54,7 @@ Black Mirror: Bandersnatch es una película que interactúa con el espectador de
 Fue estrenada en 2018 y tiene un promedio de 90 minutos, aunque se filmaron 300 minutos. Black Mirror: Bandersnatch obtuvo 12 nominaciones en diversos certámenes, de las cuales ganó 5.
 
 ![Poster Bandersnatch](Black_mirror_bandersnatch_poster.jpg)
-
+  
 La película Black Mirror: Bandersnatch __interactúa__ con el espectador cuando en diversos momentos deja alrededor de 10 segundos para que elijamos un opción entre las posibles (pudiendo deshacer la última elección), cada una de esas opciones te llevará por un desarrollo distinto en la película. De esta manera el espectador forma parte de la experiencia del protagonista, ya no lo vé desde afuera, sino el espectador forma parte de la película. 
 
 El hecho de que el espectador pueda elegir el argumento de la película, es un claro ejemplo de __hibridación__, ya que no tiene sentido el vídeo por un lado y el texto por otro lado. La cuestión de que el espectador elija una opción y transparentemente al usuario, se reproduzca por ejemplo del minuto 10 al 20, el ir enlazando todas estas partes de películas a un texto, demuestra la modularidad que explica Manovich.
@@ -65,8 +65,7 @@ El hecho de que el espectador pueda elegir el argumento de la película, es un c
 
 ¿Qué tipo de hibridación encontramos en Black Mirror: Bandersnatch? Se centra en nuevas formas de navegar por este medio, a través de la interacción con el espectador. Para ello utiliza medios existentes, como las películas digitales y obteniendo como resultado un nuevo tipo de representación híbrida.
 
-¿No habéis querido cambiar alguna decisión en el argumento de tu película favorita? Con Black Mirror: Bandersnatch lo conseguimos. En mi opinión echo en falta más poder de decisión, ya que en algunos momentos nos puede dar la sensación de ser un poco repetitivos y que reutilizan muchas escenas entre las distintas decisiones que tenemos que tomar. Aún así es una gran película que podemos ver varias veces con experiencias distintas. Cuando se estrenó esta película, quizás la ví tres o cuatro veces. Supongo que toda persona que ve esta película, vuelve a verla con distintas decisiones y de esta forma la vemos una y otra vez.
-
+¿No habéis querido cambiar alguna decisión en el argumento de tu película favorita? Con Black Mirror: Bandersnatch lo conseguimos. En mi opinión echo en falta más poder de decisión, ya que en algunos momentos nos puede dar la sensación de ser un poco repetitivos y que reutilizan muchas escenas entre las distintas decisiones que tenemos que tomar. Aún así es una gran película que podemos ver varias veces con experiencias distintas. Cuando se estrenó esta película, quizás la ví tres o cuatro veces. Supongo que toda persona que ve esta película, vuelve a verla con distintas decisiones y de esta forma la vemos una y otra vez. <br>
 ¿Cuál es el siguiente paso en la hibridación de las películas interactivas? Podría ser un software que fuera generando una película por IA en función de la elecciones del espectador.
 
 
