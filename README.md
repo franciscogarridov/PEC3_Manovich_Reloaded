@@ -66,6 +66,7 @@ El hecho de que el espectador pueda elegir el argumento de la película, es un c
 ¿Qué tipo de hibridación encontramos en Black Mirror: Bandersnatch? Se centra en nuevas formas de navegar por este medio, a través de la interacción con el espectador. Para ello utiliza medios existentes, como las películas digitales y obteniendo como resultado un nuevo tipo de representación híbrida.
 
 ¿No habéis querido cambiar alguna decisión en el argumento de tu película favorita? Con Black Mirror: Bandersnatch lo conseguimos. En mi opinión echo en falta más poder de decisión, ya que en algunos momentos nos puede dar la sensación de ser un poco repetitivos y que reutilizan muchas escenas entre las distintas decisiones que tenemos que tomar. Aún así es una gran película que podemos ver varias veces con experiencias distintas. Cuando se estrenó esta película, quizás la ví tres o cuatro veces. Supongo que toda persona que ve esta película, vuelve a verla con distintas decisiones y de esta forma la vemos una y otra vez.
+
 ¿Cuál es el siguiente paso en la hibridación de las películas interactivas? Podría ser un software que fuera generando una película por IA en función de la elecciones del espectador.
 
 
