@@ -31,6 +31,7 @@ Podemos usar Plex para realizar __streaming__ entre sus más de 200 canales disp
 > Tan pronto como se inventan, estos nuevos elementos empiezan a interaccionar con los ya existentes. Los procesos de invención e hibridación, por tanto, están muy relacionados y operan de forma conjunta. - Manovich (2013)
 
 ![Plex](Plex.jpg)
+> TV en Directo
 
 También podemos montar nuestro propio centro multimedia __cliente-servidor__ con nuestros propios archivos de películas, series, música y hasta fotos. Agrupando los distintos formatos de mkv, avi, mp4, divx, mp3, jpg, png, tiff, etc y teniendo como resultado poder tratar esa información a través de una misma plataforma. Para poder reproducirlo desde cualquier sitio. Además permite compartir parte o completamente tu biblioteca con amig@s, de esta forma puedes tener una biblioteca bastante grande. De esta manera conseguimos la distribución de audio y/o vídeo desde nuestro servidor a cualquier dispositivo, siendo otro claro ejemplo de __hibridación__.
 
@@ -41,6 +42,7 @@ Recientemente esta compañía norteamericana ha sacado la opción de "Descubrir"
 > Desde esta perspectiva, la nueva especie de medios (un único proyecto, servicio web o programa de software) representa el encuentro de diversas técnicas que anteriormente pertenecían a medios distintos. - Manovich (2013)
 
 ![Plex1](Plex1.jpg)
+> Discover o Descubrir
 
 Y todo esto sin ningún tipo de registro, con la excepción evidente de realizar broadcasting, ya que necesitamos un servidor disponible. Podemos explotar este centro multimedia desde Amazon Appstore, Android, Apple TV, Android TV, Chromecast, Roku, iOS, PlayStation, Sonos, Oculus Go, webOS, Tizen, Windows, Xbox, and macOS.
 
@@ -54,7 +56,8 @@ Black Mirror: Bandersnatch es una película que interactúa con el espectador de
 Fue estrenada en 2018 y tiene un promedio de 90 minutos, aunque se filmaron 300 minutos. Black Mirror: Bandersnatch obtuvo 12 nominaciones en diversos certámenes, de las cuales ganó 5.
 
 ![Poster Bandersnatch](Black_mirror_bandersnatch_poster.jpg)
-  
+>Portada de estreno
+
 La película Black Mirror: Bandersnatch __interactúa__ con el espectador cuando en diversos momentos deja alrededor de 10 segundos para que elijamos un opción entre las posibles (pudiendo deshacer la última elección), cada una de esas opciones te llevará por un desarrollo distinto en la película. De esta manera el espectador forma parte de la experiencia del protagonista, ya no lo vé desde afuera, sino el espectador forma parte de la película. 
 
 El hecho de que el espectador pueda elegir el argumento de la película, es un claro ejemplo de __hibridación__, ya que no tiene sentido el vídeo por un lado y el texto por otro lado. La cuestión de que el espectador elija una opción y transparentemente al usuario, se reproduzca por ejemplo del minuto 10 al 20, el ir enlazando todas estas partes de películas a un texto, demuestra la modularidad que explica Manovich.
